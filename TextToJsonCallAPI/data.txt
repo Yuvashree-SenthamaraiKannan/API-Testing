@@ -1,1 +1,3 @@
-{"name": "Yuvashree", "age": 22, "city": "Bangalore"}
+name: Yuvashree ,
+age: 22,
+city: Bangalore
